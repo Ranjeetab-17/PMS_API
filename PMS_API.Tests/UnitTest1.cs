@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace PMS_API.Tests
 {
     [TestClass]
-    public class UnitTest1
+    public class TestPMS
     {
         [TestMethod]
         public void TestMethod1()
